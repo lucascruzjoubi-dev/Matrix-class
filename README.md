@@ -1,1 +1,0 @@
-A custom matrix class with many operations. It was made with dataclasses in python. 
